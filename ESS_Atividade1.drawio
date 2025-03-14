@@ -1,9 +1,45 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="Página-1" id="jd6p-t7Q6WH0l8BRLF6l">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-1" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-2" value="Entregador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-3" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-4" value="Registrar conta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-6" value="Retirar Produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-7" value="Solicitar devolução" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-8" value="Registrar chamada de produtos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-9" value="Confirmar retirada (validar cliente)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="90" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-10" value="Processar devolução" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="140" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-11" value="Transportar produtos para a agência" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-12" value="Recolher devoluções para o centro logístico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="160" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
