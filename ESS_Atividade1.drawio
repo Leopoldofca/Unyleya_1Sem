@@ -5,40 +5,62 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-1" value="Funcionário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="60" height="120" as="geometry" />
+          <mxGeometry x="43" y="30" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-2" value="Entregador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="240" width="60" height="120" as="geometry" />
+          <mxGeometry x="725" y="235" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-3" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="40" width="60" height="120" as="geometry" />
+          <mxGeometry x="725" y="30" width="60" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-4" value="Registrar conta" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="505" y="5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-6" value="Retirar Produto" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="90" width="160" height="40" as="geometry" />
+          <mxGeometry x="505" y="65" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-7" value="Solicitar devolução" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="140" width="160" height="40" as="geometry" />
+          <mxGeometry x="505" y="125" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-8" value="Registrar chamada de produtos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="40" width="160" height="40" as="geometry" />
+          <mxGeometry x="123" y="5" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-9" value="Confirmar retirada (validar cliente)" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="90" width="160" height="40" as="geometry" />
+          <mxGeometry x="123" y="65" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JjyXnd0NtbJhpBLhwNoX-10" value="Processar devolução" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="140" width="160" height="40" as="geometry" />
+          <mxGeometry x="123" y="125" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JjyXnd0NtbJhpBLhwNoX-11" value="Transportar produtos para a agência" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="240" width="160" height="40" as="geometry" />
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-11" value="Transportar produtos para a agência" style="ellipse;whiteSpace=wrap;html=1;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="240" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JjyXnd0NtbJhpBLhwNoX-12" value="Recolher devoluções para o centro logístico" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="290" width="160" height="40" as="geometry" />
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-12" value="Recolher devoluções para o centro logístico" style="ellipse;whiteSpace=wrap;html=1;spacingTop=10;" vertex="1" parent="1">
+          <mxGeometry x="505" y="300" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JjyXnd0NtbJhpBLhwNoX-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="340" width="160" height="40" as="geometry" />
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-18" value="Sistema" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="43" y="235" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-19" value="Confirmar retirada" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="240" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-21" value="Solicitar devolução" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="123" y="300" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-26" value="Include" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JjyXnd0NtbJhpBLhwNoX-19" target="JjyXnd0NtbJhpBLhwNoX-9">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="223" y="145" as="sourcePoint" />
+            <mxPoint x="383" y="145" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="363" y="265" />
+              <mxPoint x="363" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JjyXnd0NtbJhpBLhwNoX-27" value="Extend" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JjyXnd0NtbJhpBLhwNoX-21" target="JjyXnd0NtbJhpBLhwNoX-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="333" y="275" as="sourcePoint" />
+            <mxPoint x="393" y="155" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
